@@ -9,8 +9,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![DictionaryAppSS](https://github.com/zomverse/Dictionary-App/assets/72437930/82b2a4ae-51ec-406c-a4cf-48ad1437da99)" alt="project-screenshot" width="400" height="400/">
-
+![DictionaryAppSS](https://github.com/zomverse/Dictionary-App/assets/72437930/51c8eafb-c65d-4764-a614-241a42922841)
   
   
 <h2>🧐 Features</h2>
